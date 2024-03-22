@@ -31,7 +31,8 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src="https://i.imgur.com/Vx5sf5A.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![dog_finder2000](https://github.com/idkuri/Veni-Vici/assets/78403245/a7f96103-7dca-4baa-a7ce-2ee97bc1caed)
+[dog_finder2000](https://github.com/idkuri/Veni-Vici/assets/78403245/a7f96103-7dca-4baa-a7ce-2ee97bc1caed)
+![flashcard](https://github.com/idkuri/Flashcards/assets/78403245/0a7d4594-6fc5-415f-91d4-5f53e035d875)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
