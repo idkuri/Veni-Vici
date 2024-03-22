@@ -31,6 +31,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src="https://i.imgur.com/Vx5sf5A.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![dog_finder2000](https://github.com/idkuri/Veni-Vici/assets/78403245/a7f96103-7dca-4baa-a7ce-2ee97bc1caed)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
