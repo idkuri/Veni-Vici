@@ -1,8 +1,8 @@
-# Web Development Project 4 - *Name of App Here*
+# Web Development Project 4 - *Dog finder 2000*
 
 Submitted by: **Andrew Cao**
 
-This web app: **Dog finder 2000**
+This web app: **An app that finds you a dog**
 
 Time spent: **5** hours spent in total
 
