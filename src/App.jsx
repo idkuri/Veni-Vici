@@ -106,7 +106,7 @@ function App() {
           <div className='animal-container'>
             {renderAnimal()}
           </div>
-          <button onClick={getPicture}>Call API</button>
+          <button onClick={getPicture}>Find Dog</button>
         </div>
         <div className='ban-list'>
           <h1 className='section-header'>Banned List</h1>
